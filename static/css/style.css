@@ -26,11 +26,8 @@ body {
 	font-size: 18px;
 	text-align:center;
 	letter-spacing:1.2px;
-	background: #331952;
-	background: #2193b0;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3E1D6D', endColorstr='#092756',GradientType=1 );
+	background-image: url('http://hd.wallpaperswide.com/thumbs/air_pollution-t2.jpg');
+
 
 }
 .login {
